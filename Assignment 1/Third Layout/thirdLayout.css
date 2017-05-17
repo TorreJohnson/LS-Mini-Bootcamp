@@ -1,0 +1,38 @@
+.purple {
+	width:765px;
+	height:95px;
+	background-color:#810082;
+}
+
+.red {
+	width:483px;
+	height:730px;
+	margin:auto;
+	background-color:#FF0000;
+	color:#FF0000;
+}
+
+.blue {
+	width:340px;
+	height:170px;
+	margin:auto;
+	background-color:#0000FF;
+	margin-top:30px;
+	padding-top:20px;
+}
+
+.yellow {
+	width:95px;
+	height:95px;
+	background-color:#FFFF00;
+	margin-left:20px;
+}
+
+.green {
+	width:189px;
+	height:133px;
+	background-color:#008100;
+	margin:auto;
+	margin-left:130px;
+	margin-top:-95px;
+}
